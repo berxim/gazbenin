@@ -1,0 +1,14 @@
+﻿[
+  { "id": "p1", "brand": "Total", "sizeKg": 6, "priceXof": 6000, "stockStatus": "en_stock" },
+  { "id": "p2", "brand": "Total", "sizeKg": 12.5, "priceXof": 11500, "stockStatus": "en_stock" },
+  { "id": "p3", "brand": "Total", "sizeKg": 25, "priceXof": 22000, "stockStatus": "faible" },
+  { "id": "p4", "brand": "Total", "sizeKg": 50, "priceXof": 41000, "stockStatus": "en_stock" },
+  { "id": "p5", "brand": "Oryx", "sizeKg": 6, "priceXof": 5800, "stockStatus": "en_stock" },
+  { "id": "p6", "brand": "Oryx", "sizeKg": 12.5, "priceXof": 11200, "stockStatus": "en_stock" },
+  { "id": "p7", "brand": "Oryx", "sizeKg": 25, "priceXof": 21500, "stockStatus": "rupture" },
+  { "id": "p8", "brand": "SCP", "sizeKg": 6, "priceXof": 5600, "stockStatus": "en_stock" },
+  { "id": "p9", "brand": "SCP", "sizeKg": 12.5, "priceXof": 11000, "stockStatus": "faible" },
+  { "id": "p10", "brand": "SCP", "sizeKg": 25, "priceXof": 21000, "stockStatus": "en_stock" },
+  { "id": "p11", "brand": "Autres", "sizeKg": 6, "priceXof": 5400, "stockStatus": "en_stock" },
+  { "id": "p12", "brand": "Autres", "sizeKg": 12.5, "priceXof": 10500, "stockStatus": "en_stock" }
+]
